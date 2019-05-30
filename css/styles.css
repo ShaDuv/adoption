@@ -1,0 +1,26 @@
+img {
+  width: 100%;
+}
+
+.animal {
+  float: left;
+  width: 30%;
+  border: 5px solid grey;
+  margin: 5px;
+  padding: 10px;
+}
+h1 {
+  color: #22cc3c;
+  font-size: 60px;
+}
+
+h2 {
+  color: #22cc3c;
+  font-weight: bold;
+}
+
+body {
+  background-image: linear-gradient(to bottom right, #222323, #595959);
+  color: white;
+
+}
